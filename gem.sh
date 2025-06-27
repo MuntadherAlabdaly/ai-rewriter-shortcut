@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# get your api keys from here: https://aistudio.google.com/apikey
 API_KEY="PutYourAPIHere"
 
 osascript <<EOF
